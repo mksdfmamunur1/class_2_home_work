@@ -1,0 +1,53 @@
+body{
+	background: #b48eed;
+}
+
+header{
+	border: 1px solid #60cfd6;
+	background: #7dd3d8; 
+	height: 50px;
+	margin: -8px -8px 30px;
+}
+header a{
+	color:white; 
+	font-size: 15px; 
+	border: 2px solid black;
+	background: black;
+	color: white;
+}
+footer{
+	border: 1px solid #60cfd6;
+	background: #7dd3d8; 
+	text-align: center; 
+	margin: 30px -8px -8px;
+}
+footer address a{
+	color: white;
+	color: red;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: #f1f1c1;
+}
+.main_heading{
+	text-align: center;
+	color: #8723d3;
+	background: #5ad222;
+	padding: 2px 240px 10px;
+	margin: 0px 200px 20px;
+}
+.poem{
+	background: white;
+	text-align: center;
+	margin: 0px 280px;
+}
+.contact{
+	background: green;
+	color: white;
+}
+.contact pre img{
+	width: 20px;
+	height: 20px;
+}
